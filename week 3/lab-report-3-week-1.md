@@ -113,7 +113,8 @@ In the symptom, it was expecting a 4 at element. What happened was that the arra
   
 --------------
   
-merge failure-inducing input:
+merge failure-inducing input:  
+
 ![Image](testMerge.png)
 
 merge symptom:
