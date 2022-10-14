@@ -98,7 +98,8 @@ Here are two bugs I found from my lab. The first one is wihtin the reverseInPlac
 
 -----
 
-reverseInPlace failure-inducing input:
+reverseInPlace failure-inducing input:  
+
 ![Image](reverseTest.png)
 
 reverseInPlace symptom:
