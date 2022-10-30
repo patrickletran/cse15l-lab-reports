@@ -5,3 +5,5 @@
 [Lab Report 2 Week 0](https://<patrickletran>.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 
 [Lab Report 3 Week 3](https://patrickletran.github.io/cse15l-lab-reports/week%203/lab-report-3-week-1)
+
+[Lab Report 4 Week 5](https://patrickletran.github.io/cse15l-lab-reports/week%205/lab-report-4-week-5)
